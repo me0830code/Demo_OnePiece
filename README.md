@@ -2,7 +2,7 @@
 Date : 109 / 12 / 30
 
 # Motivation & Purpose
-Side Project for VueJS and Vuetify
+Side Project - VueJS and Vuetify
 
 1. VueJS
 2. Vuetify
